@@ -5,7 +5,7 @@ about:
   image-shape: round
   image-alt: profile image
   image-title: me
-  image-width: 13em
+  image-width: 12em
   links:
     - icon: github
       text: Github
