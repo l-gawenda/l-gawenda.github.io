@@ -20,12 +20,13 @@ toc: false
 ---
 
 ## Welcome!
+
 I am a PhD student at the Faculty of Sociology at Bielefeld University (Working Group Quantitative Methods). I work at the [SOEP RegioHub](https://lsc-soep-regiohub.com/), a project funded by the Leibniz Foundation, the German Institute for Economic Research (DIW) and Bielefeld University.
 
-In my research, I study geographical patterns of political participation and their history. More generally, I am a sociologist and political scientist interested in political participation, party politcs and environmental sociology. 
-I predominantly work with electoral and survey data using quantitative methods.
-
+In my research, I study geographical patterns of political participation and their history. More generally, I am a sociologist and political scientist interested in political participation, party politcs and environmental sociology. I predominantly work with electoral and survey data using quantitative methods.
 
 ## Current projects
 
+Working Paper: Continuity in Germany's electoral Geography since the German Empire
 
+-   I assess the degree of continuity in spatial patterns of voting across 130 years. I conduct a spatial analysis by combining historical and contemporary census and electoral data through spatial interpolation. Based on cleavage theory, I can show how traditional parties still benefit from spatial continuities in the distribution of 'cleavage groups'. Continuity in the electoral geography have been sustained by a religious geography that has remained fairly stable.
