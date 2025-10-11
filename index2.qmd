@@ -1,0 +1,65 @@
+---
+title: ""
+format: html
+#main-photo: webisite_pic.jpeg
+# fontsize: 12pt
+# page-layout: full
+# cv:
+#   pdf: "Kelly_CV.pdf"
+---
+
+<style>
+  .container {
+    display: flex;
+    align-items: flex-start;
+  }
+  .left-column {
+    margin-right: 20px;
+  }
+  .right-column {
+    max-width: 600px; /* Optional: Begrenze die Breite der Textspalte */
+  }
+  .btn {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  .btn-primary {
+    background-color: #6c757d;
+  }
+  .btn-secondary {
+    background-color: #6c757d;
+  }
+</style>
+
+<div class="container">
+  <div class="left-column">
+    ![Mein Foto](/_site/website_pic.jpeg)
+    <a href="" class="btn btn-primary" target="_blank">CV</a><br>
+    <a href="leon.gawenda@uni-bielefeld.de" class="btn btn-secondary">e-mail</a>
+  </div>
+  <div class="right-column">
+    <h2>Über mich</h2>
+
+    <p>Hier können Sie einen kurzen Text über sich selbst einfügen. Beschreiben Sie Ihre Erfahrungen, Interessen und alles, was Sie teilen möchten. </p>
+  </div>
+</div>
+
+
+<!-- ![](website_pic.jpeg){fig-align="left" width="100"}
+
+<a href="" class="btn btn-primary" target="_blank">CV</a>
+<a href="mailto:leon.gawenda@uni-bielefeld.de" class="btn btn-secondary">E-Mail</a>
+
+I am a PhD student at the Faculty of Sociology at Bielefeld University (Working Group Quantitative Methods). I work at the [SOEP RegioHub](https://lsc-soep-regiohub.com/), a project funded by the Leibniz Foundation, the German Institute for Economics (DIW) and Bielefeld University.
+
+In my research, I study geographical patterns of political participation and their history. More generally, I am a sociologist and political scientist interested in political participation, party politics and environmental politics and sociology. I predominantly work with electoral and survey data using quantitative methods.
+
+Do not hesitate to get in touch!
+
+**Work in progress:**
+
+- -->

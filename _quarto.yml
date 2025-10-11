@@ -1,21 +1,33 @@
 project:
   type: website
+  # resources:
+  #   - "papers/*.pdf"
 
 website:
-  title: "l-gawenda.github.io"
+  title: "Leon Gawenda"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: CV
+      # - href: research.qmd
+      #   text: Research
+
+    right:
+      - icon: github
+        href: https://github.com/l-gawenda
+      - icon: mortarboard-fill
+        href: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=494395906
+
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+
+editor: visual
 
 
 

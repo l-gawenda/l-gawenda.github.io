@@ -1,9 +1,31 @@
 ---
-title: "Leon Gawenda"
+image: website_pic.jpeg
+about:
+  template: trestles
+  image-shape: round
+  image-alt: profile image
+  image-title: me
+  image-width: 13em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/l-gawenda
+    - icon: mortarboard-fill
+      text: University page
+      href: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=494395906
+    - icon: inbox-fill
+      text: Contact me
+      href: mailto:leon.gawenda@uni-bielefeld.de
+toc: false
 ---
 
-This is a Quarto website.
+## Welcome!
+I am a PhD student at the Faculty of Sociology at Bielefeld University (Working Group Quantitative Methods). I work at the [SOEP RegioHub](https://lsc-soep-regiohub.com/), a project funded by the Leibniz Foundation, the German Institute for Economic Research (DIW) and Bielefeld University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In my research, I study geographical patterns of political participation and their history. More generally, I am a sociologist and political scientist interested in political participation, party politcs and environmental sociology. 
+I predominantly work with electoral and survey data using quantitative methods.
+
+
+## Current projects
 
 
