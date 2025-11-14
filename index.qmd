@@ -37,7 +37,6 @@ I study spatial patterns of political participation and their history. More gene
 <summary>Abstract</summary>
 
 I assess the degree of continuity in spatial patterns of voting across 130 years. I conduct a spatial analysis by combining historical and contemporary census and electoral data through spatial interpolation. Building on cleavage theory, my findings suggests that continuity in the electoral geography has primarily been sustained through the religious geography which has remained fairly stable.
-
 </details>
 
 **Data**  A collection of historical election and social-structure data for Imperial Germany (1870-1912)
@@ -50,7 +49,6 @@ Current data sets lack accurate shapefiles and accurate social-structural data. 
 </details>
 
 **Working paper**  Does the environment matter? Environmental salience and political support across 28 middle and high-income countries
-
 <details>
 
 <summary>Abstract</summary>
