@@ -2,7 +2,7 @@
 title: "CV"
 published-title: CV last updated
 engine: knitr
-date: 2025-10-11
+date: 2025-11-14
 cv:
   pdf: "cv_prelim.pdf"
 ---

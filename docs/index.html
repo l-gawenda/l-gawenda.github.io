@@ -165,7 +165,7 @@ I assess the degree of continuity in spatial patterns of voting across 130 years
 <summary>
 Abstract
 </summary>
-<p>Current data sets lack accurate shapefiles and accurate social-structural data. I compile a data collection, that collects all available data from the German Reich at with corresponding shapefiles. This includes newly digitized shapefiles.</p>
+<p>Current data sets lack accurate shapefiles and accurate social-structural data. I compile a data collection including all available data from the German Reich. This includes newly digitized shapefiles.</p>
 </details>
 <strong>Working paper</strong> &nbsp;Does the environment matter? Environmental salience and political support across 28 middle and high-income countries
 <details>
@@ -245,7 +245,7 @@ Abstract
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/l-gawenda\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
