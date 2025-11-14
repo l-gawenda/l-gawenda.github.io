@@ -43,7 +43,7 @@ I assess the degree of continuity in spatial patterns of voting across 130 years
 
 <summary>Abstract</summary>
 
-Current data sets lack accurate shapefiles and accurate social-structural data. I compile a data collection, that collects all available data from the German Reich at with corresponding shapefiles. This includes newly digitized shapefiles. 
+Current data sets lack accurate shapefiles and accurate social-structural data. I compile a data collection including all available data from the German Reich. This includes newly digitized shapefiles. 
 
 </details>
 
