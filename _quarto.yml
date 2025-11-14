@@ -27,6 +27,12 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    grid:
+      body-width: 900px
+      sidebar-width: 150px
+      margin-width: 50px
+      gutter-width: 0.5em
+
 
 editor: visual
 
