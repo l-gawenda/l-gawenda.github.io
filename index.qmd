@@ -30,6 +30,16 @@ I study spatial patterns of political participation and their history. More gene
 
 ## Current projects:
 
+**Working paper**  Who speaks for the left-behind? Framing of spatial inequalities in the House of Commons (1988-2019)
+<details>
+
+with Chen Zeng and Konstantin Wandel
+
+<summary>Abstract</summary>
+
+This paper examines how spatial inequality is represented in UK parliamentary discourse between 1988 and 2019. While prior research highlights a growing 'geography of discontent' and widening urban–rural electoral divides (e.g., McCann 2020; Huijsmans & Rodden, 2025), less is known about how structural divides are translated into partisan conflict. Drawing on cleavage theory and agenda-setting theory, we argue that territorial divisions become politically consequential when parties actively articulate and frame regional disparities within broader debates over redistribution, justice, and national identity. Rising economic divergence and electoral volatility, we contend, create incentives to politicise spatial inequalities. Empirically, we analyse House of Commons speeches from 1988 to 2019 using methods of computational text analysis. Next, we test whether electoral vulnerability—measured through party turnover and seat marginality—drives spatial inequality rhetoric in a difference-in-differences design.
+</details>
+
 **Working paper**  Continuity in Germany's electoral Geography since the German Empire
 <details>
 
@@ -43,7 +53,7 @@ I assess the degree of continuity in spatial patterns of voting across 130 years
 
 <summary>Abstract</summary>
 
-Current data sets lack accurate shapefiles and accurate social-structural data. I compile a data collection including all available data from the German Reich. This includes newly digitized shapefiles. 
+Current data sets lack accurate shapefiles and accurate social-structural data. I compile a data collection including all available data from the German Reich. This includes newly digitized shapefiles.
 
 </details>
 
@@ -52,6 +62,6 @@ Current data sets lack accurate shapefiles and accurate social-structural data. 
 
 <summary>Abstract</summary>
 
-The study examines the salience of environmental issues. I review the current literature on political salience and propose a novel definition of issue salience, both, at the public (national) and personal (individual) level. Combinding national-level indicators and individual-level survey data from the International Social Survey Programme (ISSP, 1993-2020), I show how the support for environmental protection is strongly related to environmental salience. Based on random slope multilevel regression models, the results suggest that support for environmental protection hinges on the the public salience of environnmental issues.
+The study examines the salience of environmental issues. I review the current literature on political salience and propose a novel definition of issue salience, both, at the public (national) and personal (individual) level. Combining national-level indicators and individual-level survey data from the International Social Survey Programme (ISSP, 1993-2020), I show how the support for environmental protection is strongly related to environmental salience. Based on random slope multilevel regression models, the results suggest that support for environmental protection hinges on the the public salience of environnmental issues.
 
 </details>
