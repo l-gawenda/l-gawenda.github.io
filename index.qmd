@@ -31,9 +31,9 @@ I study spatial patterns of political participation and their history. More gene
 ## Current projects:
 
 **Working paper**  Who speaks for the left-behind? Framing of spatial inequalities in the House of Commons (1988-2019)
-<details>
+<p style="margin:0"><small>with Chen Zeng & Konstantin Wandel</small></p>
 
-with Chen Zeng and Konstantin Wandel
+<details>
 
 <summary>Abstract</summary>
 
