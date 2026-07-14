@@ -1,5 +1,5 @@
-Changing of website: 
-(For setup see: https://quarto.org/docs/publishing/github-pages.html; I use publishing via the publish command, which necessitates a „gh-pages“ directory.) 
+Changing of website:
+(For setup see: https://quarto.org/docs/publishing/github-pages.html; I use publishing via the publish command, which necessitates a „gh-pages“ directory.)
 
 Open your repository.
 Make changes to your index.qmd or other .qmd files.
@@ -14,5 +14,3 @@ git push
 
 Now publish:
 -	quarto publish
-
-
