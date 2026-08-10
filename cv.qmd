@@ -1,7 +1,6 @@
 ---
 title: "CV"
 engine: knitr
-date: 2026-14-07
 cv:
   pdf: "main.pdf"
 ---
