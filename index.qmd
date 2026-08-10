@@ -33,9 +33,12 @@ My current PhD research investigates ‘politics of place’ and their history. 
 **Working paper**  Continuity in Germany's electoral Geography since the German Empire
 <p style="margin:0"><small>(under review)</small></p>
 
+<details>
+
 <summary>Abstract</summary>
 
 I assess the degree of continuity in spatial patterns of voting across 130 years. I conduct a spatial analysis by combining historical and contemporary census and electoral data through spatial interpolation. Building on cleavage theory, my findings suggests that continuity in the electoral geography has primarily been sustained through the religious geography which has remained fairly stable.
+
 </details>
 
 **Working paper**  An old divider? A historical comparison of urban-rural partisan polarisation across Western democracies
@@ -64,9 +67,11 @@ Current data sets lack accurate shapefiles and accurate social-structural data. 
 <summary>Abstract</summary>
 
 This paper examines how spatial inequality is represented in UK parliamentary discourse between 1988 and 2019. While prior research highlights a growing 'geography of discontent' and widening urban–rural electoral divides (e.g., McCann 2020; Huijsmans & Rodden, 2025), less is known about how structural divides are translated into partisan conflict. Drawing on cleavage theory and agenda-setting theory, we argue that territorial divisions become politically consequential when parties actively articulate and frame regional disparities within broader debates over redistribution, justice, and national identity. Rising economic divergence and electoral volatility, we contend, create incentives to politicise spatial inequalities. Empirically, we analyse House of Commons speeches from 1988 to 2019 using methods of computational text analysis. Next, we test whether electoral vulnerability—measured through party turnover and seat marginality—drives spatial inequality rhetoric in a difference-in-differences design.
+
 </details>
 
 **Working paper**  Does the environment matter? Environmental salience and political support across 28 middle and high-income countries
+
 <details>
 
 <summary>Abstract</summary>
