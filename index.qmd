@@ -33,9 +33,9 @@ My current PhD research investigates ‘politics of place’ and their history. 
 **Working paper**  Explaining historical persistence in Germany's electoral geography across 130 years
 <p style="margin:0"><small>(under review)</small></p>
 
-<details> <summary>Abstract &nbsp; <a href="https://doi.org/10.31235/osf.io/4grdj_v1"  style="color: inherit; text-decoration: none;">[PDF]</a></summary>
+<details> <summary>Abstract &nbsp; <a href="https://doi.org/10.31235/osf.io/4grdj_v1" target="_blank" style="color: inherit; text-decoration: none;">[PDF]</a></summary>
 
-I assess the degree of continuity in spatial patterns of voting across 130 years. I conduct a spatial analysis by combining historical and contemporary census and electoral data through spatial interpolation. Building on cleavage theory, my findings suggests that continuity in the electoral geography has primarily been sustained through the religious geography which has remained fairly stable.
+This article studies the long-run persistence of electoral geographies. Drawing on cleavage theory, I argue that spatial patterns of party support persist where cleavages remain politically salient and the social groups they mobilise stay in place. I evidence this argument for Germany, combining electoral and census data from the German Empire (1890–1912) and reunified Germany (2002–2021) at the municipality, county and electoral-district level. The spatial analyses reveal substantial continuity in the electoral geographies of the mainstream left and right. The analysis traces both to one source, the persistent spatial distribution of Catholics. Christian democrats continued historical strongholds of the Center Party where Catholics stayed concentrated, while the SPD persists as its mirror image in the non-Catholic space. Persistence therefore rests on the stability of the religious geography and cleavage, not on the class cleavage and the economic geography, which has changed markedly. The findings position cleavage-based persistence as a complement to cultural-transmission accounts of historical legacies, locating continuity in the ongoing mobilisation of stable social groups rather than in transmitted attitudes alone.
 
 </details>
 
@@ -44,7 +44,7 @@ I assess the degree of continuity in spatial patterns of voting across 130 years
 
 <summary>Abstract</summary>
 
-Urban-rural divides are widely described as a defining feature of contemporary Western politics, yet how far tehy depart from the past is unclear. This working paper extends the data collection of Huijsmans and Rodden (2025) backwards in time, assembling constituency-, county- and municipality level results for national elections in multiple European and Anglo-American democracies including Germany, France, the UK, and the US, among others.
+Urban-rural divides are widely described as a defining feature of contemporary Western politics, yet how far they depart from the past is unclear. This working paper extends the data collection of Huijsmans and Rodden (2025) backwards in time, assembling constituency-, county- and municipality-level results for national elections in multiple European and Anglo-American democracies including Germany, France, the UK, and the US, among others.
 
 </details>
 
@@ -69,7 +69,6 @@ This paper examines how spatial inequality is represented in UK parliamentary di
 </details>
 
 **Working paper**  Does the environment matter? Environmental salience and political support across 28 middle and high-income countries
-
 <details>
 
 <summary>Abstract</summary>
