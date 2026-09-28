@@ -30,12 +30,12 @@ My current PhD research investigates ‘politics of place’ and their history. 
 
 ## Current projects:
 
-**Working paper**  Continuity in Germany's electoral geography since the German Empire
+**Working paper**  Explaining historical persistence in Germany's electoral geography across 130 years
 <p style="margin:0"><small>(under review)</small></p>
 
 <details>
 
-<summary>Abstract</summary>
+<details> <summary>Abstract &nbsp; <a href="https://doi.org/10.31235/osf.io/4grdj_v1" target="_blank">[PDF]</a></summary>
 
 I assess the degree of continuity in spatial patterns of voting across 130 years. I conduct a spatial analysis by combining historical and contemporary census and electoral data through spatial interpolation. Building on cleavage theory, my findings suggests that continuity in the electoral geography has primarily been sustained through the religious geography which has remained fairly stable.
 
