@@ -40,6 +40,8 @@ This article studies the long-run persistence of electoral geographies. Drawing 
 </details>
 
 **Working paper**  An old divider? A historical comparison of urban-rural partisan polarisation across Western democracies
+<p style="margin:0"><small>with Twan Huijsmans</small></p>
+
 <details>
 
 <summary>Abstract</summary>
@@ -48,12 +50,12 @@ Urban-rural divides are widely described as a defining feature of contemporary W
 
 </details>
 
-**Working paper**  Joint parental transmission of partisanship and religion: explaining persistent religious voting
+**Working paper** Local and familial transmission of partisanship and religion: explaining the persistence of religious voting
 <details>
 
 <summary>Abstract</summary>
 
-Previous research has examined the transmission of partisanship and religion in families, yet has not considered the interdependent transmission of the two. This study asks: is vote is inherited independently of religion, or does religious transmission carry the partisan attachment with it? Relying on panel data from Germany and the UK, I develop and test a theory of joint transmission. Overall, this points to the family as a site for the reproduction of the old religious cleavage. 
+Recent findings have again shown the persistence of religious voting (Elff et al., 2026). This study aims to examine two interrelated explanations: local religious contexts and family transmission. Regarding the first research is lacking. This study asks whether and how local religious contexts continue to exist and sustain religious voting patterns. The second explanation, family transmission, has been well documented in the literature, yet religion and partisanship have been examined mostly in isolation. The question remains whether partisanship is inherited independently of religion, or whether religious transmission carries the partisan attachment with it, thereby sustaining a persistent religious-politcal milieu. Relying on panel data from Germany and the UK, I develop and test a theory of transmission within local contexts. Overall, this points to local contexts and the family as pontential sites for the reproduction of the old religious-confessional cleavages.
 
 </details>
 
